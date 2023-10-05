@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 """Contain function sum_list"""
 from typing import List
 
