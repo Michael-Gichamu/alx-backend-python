@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""Contains async function wait_random"""
 import asyncio
 import random
 
